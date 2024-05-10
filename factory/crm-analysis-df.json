@@ -1,0 +1,9 @@
+{
+	"name": "crm-analysis-df",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c600f937-51a4-40d4-aa25-1f5abf71c9b1",
+		"tenantId": "a49bb0a6-c5c3-4e4d-8cf4-8b3dfef6f812"
+	}
+}
